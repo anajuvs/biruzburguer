@@ -1,2 +1,2 @@
-# https://biruzburguer
+# https://biruzburguer.github.io
 Site sob lanche
